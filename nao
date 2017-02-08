@@ -1,0 +1,1 @@
+在跟目录中ect/bash.bashrc最后加入这个etcexport PYTHONPATH=${PYTHONPATH}:/path/to/python-sdk
