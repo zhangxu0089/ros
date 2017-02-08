@@ -1,1 +1,3 @@
 传递自定义msg，带源码 http://blog.csdn.net/wengge987/article/details/50619294
+要使用catkin_create_qt_pkg命令需要安装一个包，执行如下命令：$ sudo apt-get install ros-indigo-qt-ros
+对于python节点要chmod 755
