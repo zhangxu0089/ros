@@ -1,1 +1,4 @@
 在跟目录中ect/bash.bashrc最后加入这个etcexport PYTHONPATH=${PYTHONPATH}:/path/to/python-sdk
+callback函数传导多个参数http://answers.ros.org/question/231492/passing-arguments-to-callback-in-python/
+callback函数传导多个参数http://answers.ros.org/question/39774/subscriber-callback-function-with-multiple-parameters/
+API运动控制 http://doc.aldebaran.com/2-1/naoqi/motion/control-joint-api.html#ALMotionProxy::setAngles__AL::ALValueCR.AL::ALValueCR.floatCR
